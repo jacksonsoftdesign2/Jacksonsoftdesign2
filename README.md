@@ -11,13 +11,12 @@
   <a href="https://tiktok.com/@jacksonsoftdesign"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-### 🛠️ Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,react,nodejs,tailwind,postgres&theme=dark" />
 </p>
 
-### 📊 GitHub Stats - Now includes private repos
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jacksonsoftdesign2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -32,34 +31,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonsoftdesign2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=FFFFFF" />
 </p>
 
-### 🐍 Snake - Will appear after you run Actions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jacksonsoftdesign2/jacksonsoftdesign2/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=100&section=footer" />  <a href="https://facebook.com/jacksonsoftdesign"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://tiktok.com/@jacksonsoftdesign"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</p>
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,react,nodejs,tailwind,postgres&theme=dark" />
-</p>
-
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jacksonsoftdesign2&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsoftdesign2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonsoftdesign2&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonsoftdesign2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=FFFFFF" />
 
 
 <p align="center">
