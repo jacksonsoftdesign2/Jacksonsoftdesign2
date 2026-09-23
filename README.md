@@ -11,13 +11,12 @@
   <a href="https://tiktok.com/@jacksonsoftdesign"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-### 🛠️ Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,react,nodejs,tailwind,postgres&theme=dark" />
 </p>
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jacksonsoftdesign2&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -30,9 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonsoftdesign2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=6366F1&point=FFFFFF" />
-</p>
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jacksonsoftdesign2/jacksonsoftdesign2/output/github-contribution-grid-snake-dark.svg" />
